@@ -91,6 +91,3 @@ Once the Teacher clicks "Open Peer Reviews", students will be prompted to submit
 
 ---
 
-## 🤝 Contributing
-
-This project was built for speed and simplicity. If you'd like to contribute (e.g., migrating the LocalStorage to a PostgreSQL Database like Supabase), feel free to fork the repository and submit a pull request!
